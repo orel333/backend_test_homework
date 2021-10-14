@@ -1,1 +1,1 @@
-print('Я домашка')
+print('Until love runs out')
